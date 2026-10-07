@@ -1,5 +1,4 @@
 #include<iostream>
-#include<stdlib.h>
 #include<time.h>
 
 using namespace std;
@@ -31,6 +30,6 @@ cout<<"Numero de intentos: "<<contador<<endl;
 	
 	
 	
-	system("pause");
+	
 	return 0;
 }
